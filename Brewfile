@@ -35,6 +35,7 @@ brew "python3"
 brew "libpqxx"
 brew "libtool"
 brew "libyaml"
+brew "mas"
 brew "minicom"
 brew "node"
 brew "pango"
@@ -53,3 +54,9 @@ cask "slack"
 cask "sublime-text"
 cask "visual-studio-code"
 cask "vmware-horizon-client"
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Wunderlist", id: 410628904
