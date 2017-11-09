@@ -55,6 +55,7 @@ cask "slack"
 cask "sublime-text"
 cask "visual-studio-code"
 cask "vmware-horizon-client"
+cask "box-sync"
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
