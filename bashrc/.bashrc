@@ -3,6 +3,7 @@ alias gs='git status'
 alias gpl='git pull'
 alias gph='git push'
 alias ls='ls -la'
+alias g='~/Documents/git/'
 PATH="/usr/local/opt/gnu-tar/libexec/gnubin:$PATH"
 
 #Delete git tag
