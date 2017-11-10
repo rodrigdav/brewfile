@@ -45,17 +45,16 @@ brew "tree"
 brew "watch"
 brew "wget"
 brew "infinitekey/infinitekey/gcc-arm-none-eabi-483"
-brew "git-flow"
 cask "alfred"
 cask "atom"
 cask "beyond-compare"
+cask "box-sync"
 cask "google-chrome"
 cask "parallels"
 cask "slack"
 cask "sublime-text"
 cask "visual-studio-code"
 cask "vmware-horizon-client"
-cask "box-sync"
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
