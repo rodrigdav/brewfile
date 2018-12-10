@@ -47,6 +47,9 @@ cask "dropbox"
 cask "evernote"
 cask "java"
 cask "spotify"
+cask "iterm2"
+cask "google-chrome"
+cask "alfred"
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
