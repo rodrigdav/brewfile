@@ -36,7 +36,6 @@ export EDITOR=$(which code)
 # Load rbenv automatically by appending
 # the following to ~/.bash_profile:
 
-eval "$(rbenv init -)"
 
 # Eternal bash history.
 # ---------------------
@@ -51,3 +50,6 @@ export HISTFILE=~/.bash_eternal_history
 # Force prompt to write history after every command.
 # http://superuser.com/questions/20900/bash-history-loss
 PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
+
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
